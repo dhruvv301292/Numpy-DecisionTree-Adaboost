@@ -8,6 +8,7 @@ The dataset for this task is synthetically generated and has two entries xi = (x
 test dataset are in ”train-adaboost.csv” and ”test-adaboost.csv” respectively
 
 The following functions are used:
+
 (a) read data: This function reads the data from the input file.
 
 (b) weak classifier: This function finds the best weak classifier, which is a 1-level decision tree.
